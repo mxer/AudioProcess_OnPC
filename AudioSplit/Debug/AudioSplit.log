@@ -1,0 +1,9 @@
+﻿  AudioSplit.cpp
+f:\github_repository\audioprocess_onpc\audiosplit\audiosplit.cpp(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\github_repository\audioprocess_onpc\audiosplit\audiosplit.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+f:\github_repository\audioprocess_onpc\audiosplit\audiosplit.cpp(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  AudioSplit.vcxproj -> F:\GitHub_Repository\AudioProcess_OnPC\Debug\AudioSplit.exe
+  AudioSplit.vcxproj -> F:\GitHub_Repository\AudioProcess_OnPC\Debug\AudioSplit.pdb (Partial PDB)
